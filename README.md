@@ -9,12 +9,14 @@ FLASK_APP=app.py
 ```
 
 ## FILE STRUCTURE:
+```bash
 |----venv
 |----.env
 |----app.py
 |----client_secret.json
 |----readme.md
 |----requirement.txt
+```
 
 ## GOOGLE_DOCS_AUTH_TOKEN set up
 This setup uses environment variables, which is a good practice for sensitive information like API keys.
